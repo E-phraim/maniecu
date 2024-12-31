@@ -72,7 +72,7 @@
     <script>
         let products = null;
         // get datas from file json
-        fetch('/assets/js/products.json')
+        fetch('./assets/js/products.json')
             .then(response => response.json())
             .then(data => {
                 products = data;
