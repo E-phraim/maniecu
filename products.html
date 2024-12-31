@@ -7,21 +7,21 @@
     <title>About Us | Maniecu Stationery - Eket's Trusted Stationery Supplier</title>
 
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.1/css/all.min.css">
-    <link rel="stylesheet" href="/assets/css/style.css">
-    <link rel="stylesheet" href="/assets/css/glider.css">
+    <link rel="stylesheet" href="./assets/css/style.css">
+    <link rel="stylesheet" href="./assets/css/glider.css">
 </head>
 
 <body>
     <section class="sub-header">
         <nav>
-            <a href="index.html"><img src="/assets/img/20241223_205048_0000.png" alt=""></a>
+            <a href="index.html"><img src="./assets/img/20241223_205048_0000.png" alt=""></a>
             <div class="nav-links" id="navLinks">
                 <i class="fa fa-times" onclick="hideMenu()"></i>
                 <ul>
                     <li><a href="index.html">home</a></li>
                     <li><a href="about.html">about</a></li>
                     <li><a href="products.html">products</a></li>
-                    <li><a href="">contact</a></li>
+                    <li><a href="contact.html">contact</a></li>
                     <li><a href="blog.html">blog</a></li>
                 </ul>
             </div>
@@ -50,7 +50,7 @@
                             <div class="product-img-container">
                                 <div class="product-img">
                                     <a href="">
-                                        <img src="/assets/img/product01.png" class="p-img-main" alt="">
+                                        <img src="./assets/img/product01.png" class="p-img-main" alt="">
                                     </a>
                                 </div>
                             </div>
@@ -74,7 +74,7 @@
                             <div class="product-img-container">
                                 <div class="product-img">
                                     <a href="">
-                                        <img src="/assets/img/product01.png" class="p-img-main" alt="">
+                                        <img src="./assets/img/product01.png" class="p-img-main" alt="">
                                     </a>
                                 </div>
                             </div>
@@ -98,7 +98,7 @@
                             <div class="product-img-container">
                                 <div class="product-img">
                                     <a href="">
-                                        <img src="/assets/img/product01.png" class="p-img-main" alt="">
+                                        <img src="./assets/img/product01.png" class="p-img-main" alt="">
                                     </a>
                                 </div>
                             </div>
@@ -122,7 +122,7 @@
                             <div class="product-img-container">
                                 <div class="product-img">
                                     <a href="">
-                                        <img src="/assets/img/product01.png" class="p-img-main" alt="">
+                                        <img src="./assets/img/product01.png" class="p-img-main" alt="">
                                     </a>
                                 </div>
                             </div>
@@ -146,7 +146,7 @@
                             <div class="product-img-container">
                                 <div class="product-img">
                                     <a href="">
-                                        <img src="/assets/img/product01.png" class="p-img-main" alt="">
+                                        <img src="./assets/img/product01.png" class="p-img-main" alt="">
                                     </a>
                                 </div>
                             </div>
@@ -170,7 +170,7 @@
                             <div class="product-img-container">
                                 <div class="product-img">
                                     <a href="">
-                                        <img src="/assets/img/product01.png" class="p-img-main" alt="">
+                                        <img src="./assets/img/product01.png" class="p-img-main" alt="">
                                     </a>
                                 </div>
                             </div>
@@ -194,7 +194,7 @@
                             <div class="product-img-container">
                                 <div class="product-img">
                                     <a href="">
-                                        <img src="/assets/img/product01.png" class="p-img-main" alt="">
+                                        <img src="./assets/img/product01.png" class="p-img-main" alt="">
                                     </a>
                                 </div>
                             </div>
@@ -218,7 +218,7 @@
                             <div class="product-img-container">
                                 <div class="product-img">
                                     <a href="">
-                                        <img src="/assets/img/product01.png" class="p-img-main" alt="">
+                                        <img src="./assets/img/product01.png" class="p-img-main" alt="">
                                     </a>
                                 </div>
                             </div>
@@ -242,7 +242,7 @@
                             <div class="product-img-container">
                                 <div class="product-img">
                                     <a href="">
-                                        <img src="/assets/img/product01.png" class="p-img-main" alt="">
+                                        <img src="./assets/img/product01.png" class="p-img-main" alt="">
                                     </a>
                                 </div>
                             </div>
@@ -266,7 +266,7 @@
                             <div class="product-img-container">
                                 <div class="product-img">
                                     <a href="">
-                                        <img src="/assets/img/product01.png" class="p-img-main" alt="">
+                                        <img src="./assets/img/product01.png" class="p-img-main" alt="">
                                     </a>
                                 </div>
                             </div>
@@ -318,13 +318,13 @@
     </section>
 
 
-    <script src="/assets/js/script.js"></script>
+    <script src="./assets/js/script.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/glider-js/1.7.7/glider.min.js"></script>
     <script>
 
         let products = null;
         // get datas from file json
-        fetch('/assets/js/products.json')
+        fetch('./assets/js/products.json')
             .then(response => response.json())
             .then(data => {
                 products = data;
@@ -418,7 +418,7 @@
         }
     </script>
 
-    <script src="/assets/js/glider.js"></script>
+    <script src="./assets/js/glider.js"></script>
 </body>
 
 </html>
