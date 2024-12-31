@@ -1,0 +1,314 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Maniecu Stationery | Paper and More in Eket, Akwa Ibom State</title>
+    <link rel="stylesheet" href="/assets/css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.1/css/all.min.css">
+</head>
+
+<body>
+
+
+    <header>
+        <div class="nav-wrapper">
+            <div class="logo-container">
+                <img class="logo" src="/assets/img/20241223_205048_0000.png" alt="Logo">
+            </div>
+            <nav role="navigation">
+                <input class="hidden" type="checkbox" id="menuToggle">
+                <label class="menu-btn" for="menuToggle">
+                    <div class="menu"></div>
+                    <div class="menu"></div>
+                    <div class="menu"></div>
+                </label>
+                <div class="nav-container">
+                    <ul class="nav-tabs">
+                        <li class="nav-tab">Home</li>
+                        <li class="nav-tab">Products</li>
+                        <li class="nav-tab">About</li>
+                        <li class="nav-tab">FAQ</li>
+                        <li class="nav-tab">Contact</li>
+                        <li class="nav-tab">Careers</li>
+                    </ul>
+                </div>
+            </nav>
+        </div>
+    </header>
+    <div class="hero-container">
+        <div class="hero-image" role="img">
+            <div class="hero-text">
+                <h1>Maniecu Stationery</h1>
+                <p>Quality Paper and Stationery in Eket, Akwa Ibom State</p>
+            </div>
+        </div>
+
+        <div style=""></div>
+    </div>
+
+
+    <section class="store-details">
+        <div class="container">
+            <div class="store-heading">
+                <span>Maniecu Eket, AKS</span>
+                <h2>office supplies in Eket, Akwa Ibom State</h2>
+            </div>
+            <div class="store-cols">
+                <div class="store-details-cols">
+                    <div class="details-cols-item">
+                        <p><i class="fa-solid fa-location-crosshairs"></i>eket/oron road</p>
+                        <span><i class="fa-solid fa-diamond-turn-right"></i>get directions</span>
+                    </div>
+                    <div class="details-cols-item">
+                        <p><i class="fa-solid fa-phone"></i>tel: (234) 111-1111-11</p>
+                        <span><i class="fa-solid fa-envelope"></i>email: maniecu@gmail.com</span>
+                    </div>
+                </div>
+                <div class="store-details-cols">
+                    <h2 class="sdc-1"><i class="af fa-solid fa-hourglass-start"></i>hours of operation</h2>
+                    <div class="sdc-div-1">
+                        <p>monday: 8:30am - 5:30pm</p>
+                        <p>tuesday: 8:30am - 5:30pm</p>
+                        <p>wednesday: 8:30am - 5:30pm</p>
+                        <p>thursday: 8:30am - 5:30pm</p>
+                        <p>friday: 8:30am - 5:30pm</p>
+                        <p>saturday: 9:00am - 5:00pm</p>
+                        <p>sunday: closed</p>
+                    </div>
+                </div>
+                <div class="store-details-cols last-col">
+                    <div class="img-col">
+                        <img src="/assets/img/29e8c4e9ae168065d281589c676bbc54.jpg" alt="">
+                    </div>
+                    <div class="extra-col">
+                        <h3>get what you need same day</h3>
+                        <p>place an order online and choose from FREE 1-hour in-store pickup or same-day delivery.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="services-main">
+        <div class="service-row">
+            <h2 class="section-heading">Our Services</h2>
+        </div>
+        <div class="service-row">
+            <div class="service-column">
+                <div class="service-card">
+                    <div class="icon-wrapper">
+                        <img src="/assets/img/retailsales.png" alt="">
+                        <!-- <i class="fas fa-hammer"></i> -->
+                    </div>
+                    <h3>retail sales</h3>
+                    <p>
+                        Selling stationery items like pens, notebooks, planners, folders, and office supplies.
+                    </p>
+                </div>
+            </div>
+            <div class="service-column">
+                <div class="service-card">
+                    <div class="icon-wrapper">
+                        <img src="/assets/img/schoolsupplies.jpg" alt="">
+                    </div>
+                    <h3>School Supplies</h3>
+                    <p>
+                        Back-to-school kits for students. Educational materials like charts, flashcards, and writing
+                        tools.
+                    </p>
+                </div>
+            </div>
+            <div class="service-column">
+                <div class="service-card">
+                    <div class="icon-wrapper">
+                        <img src="/assets/img/customized.jpg" alt="">
+                    </div>
+                    <h3>customized stationery</h3>
+                    <p>
+                        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quisquam
+                        consequatur necessitatibus eaque.
+                    </p>
+                </div>
+            </div>
+            <div class="service-column">
+                <div class="service-card">
+                    <div class="icon-wrapper">
+                        <img src="/assets/img/bulkorders.jpeg" alt="">
+                    </div>
+                    <h3>bulk orders for businesses</h3>
+                    <p>
+                        Wholesale or bulk order services for offices or schools. Discounts for large purchases.
+                    </p>
+                </div>
+            </div>
+            <div class="service-column">
+                <div class="service-card">
+                    <div class="icon-wrapper">
+                        <img src="/assets/img/deliveryandpickup.jpg" alt="">
+                    </div>
+                    <h3>delivery and pickup</h3>
+                    <p>
+                        Local delivery for customers. In-store pickup for online orders.
+                    </p>
+                </div>
+            </div>
+            <!-- <div class="service-column">
+                <div class="service-card">
+                    <div class="icon-wrapper">
+                        <i class="fas fa-plug"></i>
+                    </div>
+                    <h3>Service Heading</h3>
+                    <p>
+                        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quisquam
+                        consequatur necessitatibus eaque.
+                    </p>
+                </div>
+            </div> -->
+        </div>
+    </section>
+
+    <!-- GET STARTED -->
+    <section class="get-started" id="get-started">
+        <div class="ctn-wrapper">
+            <div class="text">
+                <h1>would you like to start a project with us?</h1>
+
+            </div>
+            <button class="ctn" role="button"><a class="link" href="">get started</a></button>
+        </div>
+    </section>
+
+    <div class="featured">
+        <div class="product-section-container">
+            <h1>Best Sellers</h1>
+            <span class="product-section-description">
+                Lectus sapien auctor tortor quis pharetra ligula sapien eu augue. Praesent bibendum sapien ut
+                est venenatis semper.
+            </span>
+            <ul class="product-section-items-wrapper">
+                <li class="product-item">
+                    <div class="product-image">
+                        <img src="/assets/img/featured.jpg" alt="Torquoise SmartWatch">
+                    </div>
+                    <div class="product-text">
+                        <span class="product-title">
+                            Turquoise Light Blue<br>
+                            Single Wool Smartwatch
+                        </span>
+                        <div class="product-purchase">
+                            <span class="product-price">
+                                $300.00
+                            </span>
+                            <button class="blue-button add-to-cart">
+                                Add To Cart
+                            </button>
+                        </div>
+                    </div>
+                </li>
+                <li class="product-item">
+                    <div class="product-image">
+                        <img src="/assets/img/featured2.png" alt="Torquoise SmartWatch">
+                    </div>
+                    <div class="product-text">
+                        <span class="product-title">
+                            Sunshine Yellow Bright Curve-Edged Tablet
+                        </span>
+                        <div class="product-purchase">
+                            <span class="product-price">
+                                $200.00
+                            </span>
+                            <button class="blue-button add-to-cart">
+                                Add To Cart
+                            </button>
+                        </div>
+                    </div>
+                </li>
+                <li class="product-item">
+                    <div class="product-image">
+                        <img src="/assets/img/featured3.jpg" alt="Sunshine Yellow Bright">
+                    </div>
+                    <div class="product-text">
+                        <span class="product-title">
+                            Cellophane Stationery / Carton Sealing Tape
+                        </span>
+                        <div class="product-purchase">
+                            <span class="product-price">
+                                $500.00
+                            </span>
+                            <button class="blue-button add-to-cart">
+                                Add To Cart
+                            </button>
+                        </div>
+                    </div>
+                </li>
+                <li class="product-item">
+                    <div class="product-image">
+                        <img src="/assets/img/featured.jpg" alt="Torquoise SmartWatch">
+                    </div>
+                    <div class="product-text">
+                        <span class="product-title">
+                            Turquoise Light Blue<br>
+                            Single Wool Smartwatch
+                        </span>
+                        <div class="product-purchase">
+                            <span class="product-price">
+                                $300.00
+                            </span>
+                            <button class="blue-button add-to-cart">
+                                Add To Cart
+                            </button>
+                        </div>
+                    </div>
+                </li>
+                <li class="product-item">
+                    <div class="product-image">
+                        <img src="/assets/img/featured2.png" alt="Torquoise SmartWatch">
+                    </div>
+                    <div class="product-text">
+                        <span class="product-title">
+                            Sunshine Yellow Bright Curve-Edged Tablet
+                        </span>
+                        <div class="product-purchase">
+                            <span class="product-price">
+                                $200.00
+                            </span>
+                            <button class="blue-button add-to-cart">
+                                Add To Cart
+                            </button>
+                        </div>
+                    </div>
+                </li>
+                <li class="product-item">
+                    <div class="product-image">
+                        <img src="/assets/img/featured3.jpg" alt="Sunshine Yellow Bright">
+                    </div>
+                    <div class="product-text">
+                        <span class="product-title">
+                            Cellophane Stationery / Carton Sealing Tape
+                        </span>
+                        <div class="product-purchase">
+                            <span class="product-price">
+                                $500.00
+                            </span>
+                            <button class="blue-button add-to-cart">
+                                Add To Cart
+                            </button>
+                        </div>
+                    </div>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+    <section class="faq">
+        <h2>frequently asked questions</h2>
+    </section>
+
+
+    <script src="/assets/js/script.js"></script>
+
+</body>
+
+</html>

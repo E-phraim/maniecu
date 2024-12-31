@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Us | Maniecu Stationery - Eket's Trusted Stationery Supplier</title>
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.1/css/all.min.css">
+    <link rel="stylesheet" href="/assets/css/style.css">
+    <link rel="stylesheet" href="/assets/css/glider.css">
+</head>
+
+<body>
+    <section class="sub-header">
+        <nav>
+            <a href="index.html"><img src="/assets/img/20241223_205048_0000.png" alt=""></a>
+            <div class="nav-links" id="navLinks">
+                <i class="fa fa-times" onclick="hideMenu()"></i>
+                <ul>
+                    <li><a href="index.html">home</a></li>
+                    <li><a href="about.html">about</a></li>
+                    <li><a href="products.html">products</a></li>
+                    <li><a href="contact.html">contact</a></li>
+                    <li><a href="blog.html">blog</a></li>
+                </ul>
+            </div>
+            <i class="fa fa-bars" onclick="showMenu()"></i>
+        </nav>
+
+        <h1>contact us</h1>
+    </section>
+
+
+    <section class="location">
+        <iframe
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3976.6558234371955!2d7.9643191!3d4.6553214999999994!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1067eb17fad23209%3A0x8dda71cf62fac329!2sManiecu%20Stationery%20Store!5e0!3m2!1sen!2sus!4v1735653975871!5m2!1sen!2sus"
+            width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"
+            referrerpolicy="no-referrer-when-downgrade"></iframe>
+    </section>
+
+    <section class="contact-us">
+        <div class="row">
+            <div class="contact-col">
+                <div>
+                    <i class="fa-solid fa-house"></i>
+                    <span>
+                        <h5>Eket/Oron Road, opp Ikot Ibiok Primary School</h5>
+                        <p>Eket, Akwa Ibom, NG</p>
+                    </span>
+                </div>
+                <div>
+                    <i class="fa-solid fa-phone"></i>
+                    <span>
+                        <h5>+(234) 812-986-3189</h5>
+                        <p>monday to saturday, 8:30am to 5:30pm</p>
+                    </span>
+                </div>
+                <div>
+                    <i class="fa-solid fa-envelope"></i>
+                    <span>
+                        <h5>maniecugroups@gmail.com</h5>
+                        <p>email us your thoughts</p>
+                    </span>
+                </div>
+            </div>
+            <div class="contact-col">
+                <form action="">
+                    <input type="text" placeholder="enter your name" required>
+                    <input type="email" placeholder="enter email address" required>
+                    <input type="text" placeholder="enter your subject" required>
+                    <textarea rows="8" placeholder="message" required></textarea>
+                    <button type="submit" class="hero-btn red-btn">send message</button>
+                </form>
+            </div>
+        </div>
+    </section>
+
+
+    <section class="footer">
+        <h4>about us</h4>
+        <p>At Maniecu Stationery, we pride ourselves on delivering top-notch stationery products and services. Whether
+            you're a student, a professional, or a business, we’re here to meet your needs.</p>
+        <div class="icons">
+            <i class="fa-brands fa-facebook"></i>
+        </div>
+        <p>made with <i class="fa-regular fa-heart"></i> by Webtellisense</p>
+    </section>
+
+
+    <script src="/assets/js/script.js"></script>
+    <script>
+        var navLinks = document.getElementById("navLinks");
+        function showMenu() {
+            navLinks.style.right = "0";
+        }
+        function hideMenu() {
+            navLinks.style.right = "-200px";
+        }
+    </script>
+</body>
+
+</html>
