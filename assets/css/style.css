@@ -127,8 +127,18 @@ nav .fa {
   display: none;
 }
 @media (max-width: 700px) {
+  .text-box {
+    padding: 4px;
+    width: 100%;
+  }
   .text-box h1 {
-    font-size: 20px;
+    font-size: 30px;
+    line-height: 1.1em;
+    font-weight: 700;
+    letter-spacing: 1px;
+  }
+  .text-box p {
+    font-size: 18px;
   }
   .nav-links ul li {
     display: block;
@@ -141,7 +151,7 @@ nav .fa {
     top: 0;
     right: -200px;
     text-align: left;
-    z-index: 2;
+    z-index: 3;
     transition: 1s;
   }
   nav .fa {
@@ -290,6 +300,12 @@ ul.product-section-items-wrapper {
   line-height: 1.3em;
 }
 
+@media (max-width: 700px) {
+  .services .row {
+    flex-direction: column;
+  }
+}
+
 .testimonials {
   width: 80%;
   margin: auto;
@@ -340,6 +356,10 @@ ul.product-section-items-wrapper {
   .testimonial-col img {
     margin-left: 0px;
     margin-right: 15px;
+  }
+
+  .testimonials .row {
+    flex-direction: column;
   }
 }
 
@@ -540,6 +560,33 @@ ul.product-section-items-wrapper {
   text-transform: uppercase;
   line-height: 1.6;
   margin-top: 35px;
+}
+@media (max-width: 700px) {
+  .sub-header {
+    height: 30vh;
+  }
+  .story-box {
+    flex-wrap: wrap;
+    flex-direction: column;
+  }
+  .vision-box {
+    width: 100%;
+    flex-direction: column;
+  }
+  .vision-box-i {
+    padding: 15px;
+    margin: 0 auto;
+  }
+  .about-us {
+    width: 95%;
+  }
+  .about-us .row {
+    flex-direction: column;
+  }
+  .about-col h1 {
+    font-size: 30px;
+    line-height: 1.2em;
+  }
 }
 .popular-products {
   margin-bottom: 45px;
@@ -902,6 +949,13 @@ ul.product-section-items-wrapper {
   .sub-header h1 {
     font-size: 24px;
   }
+
+  .blog-header {
+    font-size: 15px !important;
+  }
+  .blog-content .row {
+    flex-direction: column;
+  }
 }
 
 .location {
@@ -941,4 +995,11 @@ ul.product-section-items-wrapper {
   outline: none;
   border: 1px solid #ccc;
   box-sizing: border-box;
+  text-transform: uppercase;
+  font-size: 12px;
+}
+@media (max-width: 700px) {
+  .contact-us .row {
+    flex-direction: column;
+  }
 }
