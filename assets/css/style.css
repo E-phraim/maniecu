@@ -145,7 +145,7 @@ nav .fa {
   }
   .nav-links {
     position: fixed;
-    background: #987654;
+    background: #b39373;
     height: 100vh;
     width: 200px;
     top: 0;
@@ -164,6 +164,173 @@ nav .fa {
   .nav-links ul {
     padding: 30px;
   }
+}
+
+.trending {
+  max-width: 720px;
+  margin: 5% auto;
+}
+.trending-card {
+  box-shadow: 0 6px 6px rgba(#000, 0.3);
+  transition: 200ms;
+  background: #fff;
+}
+.trending-card-title {
+  display: flex;
+  align-items: center;
+  padding: 30px 40px;
+}
+.trending-card-title h3 {
+  flex: 0 1 200px;
+  text-align: right;
+  margin: 0;
+  color: #252525;
+  font-family: sans-serif;
+  font-weight: 600;
+  font-size: 20px;
+  text-transform: uppercase;
+}
+.trending-card-title h1{
+  text-transform: uppercase;
+  font-weight: 800;
+  margin-left: 5px;
+}
+.trending-icon {
+  flex: 1 0 10px;
+  background: #987654;
+  color: #fff;
+  padding: 10px 10px;
+  transition: 200ms;
+}
+.trending-card-body {
+  padding: 0 40px;
+  display: flex;
+  flex-flow: row wrap;
+  margin-bottom: 25px;
+}
+.trending-card-body .trending-half {
+  box-sizing: border-box;
+  padding: 0 15px;
+  flex: 1 0 50%;
+}
+.trending-featured-text h1 {
+  margin: 0;
+  padding: 0;
+  font-weight: 800;
+  text-transform: uppercase;
+  font-size: 64px;
+  line-height: 50px;
+  color: #181e28;
+}
+.trending-featured-text p {
+  margin: 0;
+  padding: 0;
+}
+.trending-sub {
+  font-size: 26px;
+  text-transform: uppercase;
+  color: #686e77;
+  font-weight: 300;
+  margin-bottom: 5px;
+}
+.trending-price {
+  color: #252525;
+  font-size: 26px;
+}
+.trending-image {
+  padding-top: 15px;
+  width: 100%;
+}
+.trending-image img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+.trending-description {
+  margin-bottom: 25px;
+}
+.trending-description p {
+  margin: 0;
+  font-weight: 300;
+  line-height: 27px;
+  font-size: 16px;
+  color: #555;
+}
+.trending-stock {
+  font-weight: 600;
+  color: #a1cc16;
+}
+.trending-reviews .trending-stars {
+  display: inline-block;
+  list-style: none;
+  padding: 0;
+}
+.trending-reviews .trending-stars li {
+  display: inline-block;
+}
+.trending-reviews .trending-stars .fa {
+  color: #f7c01b;
+}
+.trending-reviews span {
+  font-size: 14px;
+  margin-left: 5px;
+  color: #555;
+}
+.trending-card-footer {
+  padding: 30px 40px;
+  display: flex;
+  flex-flow: row no-wrap;
+  align-items: center;
+  position: relative;
+}
+
+.trending-card-footer::before {
+  content: '';
+  position: absolute;
+  display: block;
+  top: 0;
+  left: 40px;
+  width: calc(100% - 40px);
+  height: 3px;
+  background: #987654;
+  background: linear-gradient(
+    to right,
+    #987654 0%,
+    #987654 20%,
+    #ddd 20%,
+    #ddd 100%
+  );
+}
+.trending-recommend {
+  flex: 1 0 10px;
+}
+.trending-recommend p {
+  margin: 0;
+  text-transform: uppercase;
+  font-weight: 600;
+  font-size: 14px;
+  color: #555;
+}
+.trending-recommend h3 {
+  margin: 0;
+  font-size: 20px;
+  font-weight: 600;
+  text-transform: uppercase;
+  color: #987654;
+}
+.trending-action .hero-btn {
+  cursor: pointer;
+  border: 1px solid #987654;
+  padding: 14px 30px;
+  border-radius: 200px;
+  color: #fff;
+  background: #987654;
+  font-size: 16px;
+  transition: 200ms;
+}
+.trending-action .hero-btn:hover {
+  background: #fff;
+  color: #987654;
 }
 
 .featured-products {
@@ -284,6 +451,7 @@ ul.product-section-items-wrapper {
   text-align: left;
 }
 .services-col img {
+  margin-bottom: 0.875em;
   height: 210px;
   object-fit: cover;
   width: 100%;
@@ -322,7 +490,16 @@ ul.product-section-items-wrapper {
   cursor: pointer;
   display: flex;
 }
-
+.testimonial-col h3 {
+  text-transform: capitalize;
+  font-weight: 400;
+  margin: 9px 0px;
+}
+.testimonial-col p {
+  font-weight: 300;
+  font-size: 15px;
+  line-height: 1.5em;
+}
 .testimonial-col img {
   height: 40px;
   object-fit: cover;
@@ -986,6 +1163,15 @@ ul.product-section-items-wrapper {
   color: #987654;
   margin: 10px;
   margin-bottom: 30px;
+}
+.contact-col div span p{
+  text-transform: capitalize;
+  color: #606060;
+}
+.contact-col div span h5{
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 1px;
 }
 .contact-col input,
 .contact-col textarea {
