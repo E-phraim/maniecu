@@ -1,65 +1,156 @@
 [
     {
         "id": 1,
-        "name": " books",
+        "name": "A4 Paper",
         "price": 2000,
-        "image": "./assets/img/product01.png",
+        "image": "./assets/img/proda4paper.jpg",
         "description": "good books & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric."
     },
     {
         "id": 2,
-        "name": " books",
+        "name": "school bags",
         "price": 2000,
-        "image": "./assets/img/product01.png",
+        "image": "./assets/img/prodschoolbag.webp",
         "description": "good books & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric."
     },
     {
         "id": 3,
-        "name": " books",
+        "name": "eraser",
         "price": 2000,
-        "image": "./assets/img/product01.png",
+        "image": "./assets/img/proderaser.webp",
         "description": "good books & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric."
     },
     {
         "id": 4,
-        "name": " books",
+        "name": "correction pen",
         "price": 2000,
-        "image": "./assets/img/product01.png",
+        "image": "./assets/img/prodcorrectionpen.avif",
         "description": "good books & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric."
     },
     {
         "id": 5,
-        "name": " books",
+        "name": " pencils",
         "price": 2000,
-        "image": "./assets/img/product01.png",
+        "image": "./assets/img/prodpencils.webp",
         "description": "good books & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric."
     },
     {
         "id": 6,
-        "name": " books",
+        "name": " sharpeners",
         "price": 2000,
-        "image": "./assets/img/product01.png",
+        "image": "./assets/img/prodsharpeners.webp",
         "description": "good books & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric."
     },
     {
         "id": 7,
-        "name": " books",
+        "name": " pos papers",
         "price": 2000,
-        "image": "./assets/img/product01.png",
+        "image": "./assets/img/prodpospaper.avif",
         "description": "good books & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric."
     },
     {
         "id": 8,
-        "name": " books",
+        "name": " id card tag",
         "price": 2000,
-        "image": "./assets/img/product01.png",
+        "image": "./assets/img/prodidcardtag.webp",
         "description": "good books & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric."
     },
     {
         "id": 9,
-        "name": " books",
+        "name": "umbrella",
         "price": 2000,
-        "image": "./assets/img/product01.png",
+        "image": "./assets/img/produmbrella.webp",
+        "description": "good books & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric."
+    },
+    {
+        "id": 9,
+        "name": "globe",
+        "price": 2000,
+        "image": "./assets/img/prodglobe.webp",
+        "description": "good books & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric."
+    },
+    {
+        "id": 9,
+        "name": " perferator",
+        "price": 2000,
+        "image": "./assets/img/prodperforator.avif",
+        "description": "good books & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric."
+    },
+    {
+        "id": 9,
+        "name": " carbon paper",
+        "price": 2000,
+        "image": "./assets/img/prodcarbonpaper.avif",
+        "description": "good books & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric."
+    },
+    {
+        "id": 9,
+        "name": " math set",
+        "price": 2000,
+        "image": "./assets/img/prodmathset.webp",
+        "description": "good books & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric."
+    },
+    {
+        "id": 9,
+        "name": " calculator",
+        "price": 2000,
+        "image": "./assets/img/prodcalculator.avif",
+        "description": "good books & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric."
+    },
+    {
+        "id": 9,
+        "name": " diaries",
+        "price": 2000,
+        "image": "./assets/img/diaries.webp",
+        "description": "good books & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric."
+    },
+    {
+        "id": 9,
+        "name": "monopoly",
+        "price": 2000,
+        "image": "./assets/img/prodmonopoly.jpeg",
+        "description": "good books & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric."
+    },
+    {
+        "id": 9,
+        "name": "stamp pad",
+        "price": 2000,
+        "image": "./assets/img/prodstamppad.avif",
+        "description": "good books & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric."
+    },
+    {
+        "id": 9,
+        "name": " umbrella",
+        "price": 2000,
+        "image": "./assets/img/produmbrella.webp",
+        "description": "good books & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric."
+    },
+    {
+        "id": 9,
+        "name": " umbrella",
+        "price": 2000,
+        "image": "./assets/img/produmbrella.webp",
+        "description": "good books & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric."
+    },
+    {
+        "id": 9,
+        "name": " umbrella",
+        "price": 2000,
+        "image": "./assets/img/produmbrella.webp",
+        "description": "good books & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric."
+    },
+    {
+        "id": 9,
+        "name": " umbrella",
+        "price": 2000,
+        "image": "./assets/img/produmbrella.webp",
+        "description": "good books & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric."
+    },
+    {
+        "id": 9,
+        "name": " umbrella",
+        "price": 2000,
+        "image": "./assets/img/produmbrella.webp",
         "description": "good books & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric."
     }
 ]

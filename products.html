@@ -36,12 +36,12 @@
             <div class="products-slider">
                 <h3 class="product-slider-heading">trending products</h3>
 
-                <div class="slider-btns">
+                <!-- <div class="slider-btns">
                     <button aria-label="Previous" class="glider-prev">«</button>
                     <span></span>
                     <button aria-label="Next" class="glider-next">»</button>
                     <span></span>
-                </div>
+                </div> -->
 
                 <div class="glider-contain">
                     <div class="glider">
@@ -64,7 +64,7 @@
                                 </a>
                                 <div class="price-list">
                                     <span class="product-price">12,000</span>
-                                    <a href="" class="product-btn">buy now</a>
+                                    <!-- <a href="" class="product-btn">buy now</a> -->
                                 </div>
                             </div>
                         </div>
@@ -343,9 +343,15 @@
                     newProduct.href = '/detail.html?id=' + product.id;
                     newProduct.classList.add('item');
                     newProduct.innerHTML =
-                        `<img src="${product.image}" alt="">
-                <h2>${product.name}</h2>
-                <div class="price">$${product.price}</div>`;
+
+                        `
+                        <div>
+                        <img src="${product.image}" alt="">
+                <p>${product.name}</p>
+                <div class="price">$${product.price}</div>
+                <span>express available <i class="fa-solid fa-truck-fast"></i></span>
+                </div>
+                `;
                     listProductHTML.appendChild(newProduct);
 
                 });

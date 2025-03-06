@@ -101,8 +101,8 @@
                 newProduct.href = '/detail.html?id=' + product.id;
                 newProduct.classList.add('item');
                 newProduct.innerHTML =
-                    `<img src="${product.image}" alt="">
-            <h2>${product.name}</h2>
+                    `<img class="productImgDet" src="${product.image}" alt="">
+            <p class="product-detail-sm">${product.name}</p>
             <div class="price">$${product.price}</div>`;
                 listProduct.appendChild(newProduct);
             });
