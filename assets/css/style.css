@@ -960,8 +960,10 @@ ul.product-section-items-wrapper {
   padding: 20px 0;
 }
 .listProduct .item img {
-  width: 85%;
-  border-radius: 9px;
+  width: 80%;
+  border-radius: 19px;
+  object-fit: cover;
+  height: 200px;
   filter: drop-shadow(0 50px 20px rgba(0, 0, 0, 0.2));
 }
 .listProduct {
@@ -973,7 +975,7 @@ ul.product-section-items-wrapper {
   text-decoration: none;
   color: black;
   background-color: rgba(152, 118, 84, 0.1);
-  /* padding: 8px; */
+  padding: 8px;
   border-radius: 8px;
   display: flex;
   flex-direction: column;

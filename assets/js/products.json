@@ -2,70 +2,71 @@
     {
         "id": 1,
         "name": "A4 Paper",
-        "price": 2000,
+        "price": 26000,
         "image": "./assets/img/proda4paper.jpg",
         "description": "Standard A4 copy paper, ideal for printing and everyday use."
     },
     {
         "id": 2,
         "name": "School Bags",
-        "price": 2000,
+        "price": 15000,
         "image": "./assets/img/prodschoolbag.webp",
         "description": "Durable school bags with multiple compartments for books and supplies."
     },
     {
         "id": 3,
         "name": "Eraser",
-        "price": 2000,
+        "price": 100,
         "image": "./assets/img/proderaser.webp",
         "description": "High-quality eraser for clean and precise erasing."
     },
     {
         "id": 4,
         "name": "Correction Pen",
-        "price": 2000,
+        "price": 250,
         "image": "./assets/img/prodcorrectionpen.avif",
         "description": "Correction pen for quick and neat corrections on paper."
     },
     {
         "id": 5,
         "name": "Pencils",
-        "price": 2000,
+        "price": 150,
         "image": "./assets/img/prodpencils.webp",
         "description": "Standard wooden pencils for writing and drawing."
     },
     {
         "id": 6,
         "name": "Sharpeners",
-        "price": 2000,
+        "price": 50,
         "image": "./assets/img/prodsharpeners.webp",
         "description": "Pencil sharpeners for keeping pencils sharp and ready for use."
     },
     {
         "id": 7,
         "name": "POS Paper Rolls",
-        "price": 2000,
+        "price": 1500,
         "image": "./assets/img/prodpospaper.avif",
         "description": "Thermal paper rolls for point-of-sale (POS) printers."
     },
     {
         "id": 8,
         "name": "ID Card Tag",
-        "price": 2000,
+        "price": 500,
         "image": "./assets/img/prodidcardtag.webp",
-        "description": "Plastic ID card tag holder with a lanyard for easy identification."
+        "description": "Plastic ID card tag holder with a lanyard for easy identification.",
+        "note": "Average price for basic plastic ID holders"
     },
     {
         "id": 9,
         "name": "Umbrella",
-        "price": 2000,
+        "price": 5000,
         "image": "./assets/img/produmbrella.webp",
         "description": "Compact and durable umbrella for protection from rain and sun."
     },
     {
         "id": 10,
         "name": "Globe",
-        "price": 2000,
+        "price": 4500,
         "image": "./assets/img/prodglobe.webp",
         "description": "Educational globe for geography and world exploration."
     },
@@ -79,211 +80,223 @@
     {
         "id": 12,
         "name": "Carbon Paper",
-        "price": 2000,
+        "price": 50,
         "image": "./assets/img/prodcarbonpaper.avif",
         "description": "Carbon paper for creating duplicate copies of handwritten documents."
     },
     {
         "id": 13,
         "name": "Math Set",
-        "price": 2000,
+        "price": 1000,
         "image": "./assets/img/prodmathset.webp",
         "description": "Complete math set with compass, ruler, protractor, and other tools."
     },
     {
         "id": 14,
         "name": "Calculator",
-        "price": 2000,
+        "price": 8000,
         "image": "./assets/img/prodcalculator.avif",
         "description": "Basic calculator for everyday calculations."
     },
     {
         "id": 15,
         "name": "Diaries",
-        "price": 2000,
+        "price": 6000,
         "image": "./assets/img/diaries.webp",
         "description": "Daily planner diary for organizing appointments and tasks."
     },
     {
         "id": 16,
         "name": "Monopoly",
-        "price": 2000,
+        "price": 6000,
         "image": "./assets/img/prodmonopoly.jpeg",
         "description": "Classic Monopoly board game for family entertainment."
     },
     {
         "id": 17,
         "name": "Stamp Pad",
-        "price": 2000,
+        "price": 2500,
         "image": "./assets/img/prodstamppad.avif",
         "description": "Ink stamp pad for use with rubber stamps."
     },
     {
         "id": 18,
         "name": "Correction Pen",
-        "price": 2000,
+        "price": 250,
         "image": "./assets/img/CorrectionPen.jpg",
         "description": "Correction pen for quick and neat corrections on paper."
     },
     {
         "id": 19,
         "name": "Rotring Set",
-        "price": 2000,
+        "price": 6000,
         "image": "./assets/img/RotringSet.jpg",
         "description": "Professional Rotring drawing pen set for technical drawing."
     },
     {
         "id": 20,
         "name": "Pencil Case",
-        "price": 2000,
+        "price": 1500,
         "image": "./assets/img/Pencilcase.webp",
-        "description": "Standard pencil case for storing pens, pencils, and other stationery."
+        "description": "Standard pencil case for storing pens, pencils, and other stationery.",
+        "note": "Average price for basic fabric/plastic pencil cases"
     },
     {
         "id": 21,
         "name": "Clear Pencil Case",
-        "price": 2000,
+        "price": 1200,
         "image": "./assets/img/clear pencil case.webp",
-        "description": "Transparent pencil case for easy visibility of contents."
+        "description": "Transparent pencil case for easy visibility of contents.",
+        "note": "Typical price for transparent PVC cases"
     },
     {
         "id": 22,
         "name": "Label",
-        "price": 2000,
+        "price": 1000,
         "image": "./assets/img/label.jpg",
         "description": "Adhesive labels for organizing and labeling items."
     },
     {
         "id": 23,
         "name": "Diary",
-        "price": 2000,
+        "price": 6000,
         "image": "./assets/img/diary.jpg",
         "description": "Daily planner diary for organizing appointments and tasks."
     },
     {
         "id": 24,
         "name": "Super Glue",
-        "price": 2000,
+        "price": 100,
         "image": "./assets/img/Super Glue Oke Bond Super Glue.jpg",
         "description": "Strong super glue for bonding various materials."
     },
     {
         "id": 25,
         "name": "Adhesive Glue",
-        "price": 2000,
+        "price": 1200,
         "image": "./assets/img/2 Packs Of UHU All Purpose Adhensive Glue 125ml.jpg",
-        "description": "All-purpose adhesive glue for paper, cardboard, and other materials."
+        "description": "All-purpose adhesive glue for paper, cardboard, and other materials.",
+        "note": "Price for 2-pack of UHU glue"
     },
     {
         "id": 26,
         "name": "Leather Puncher",
-        "price": 2000,
+        "price": 3500,
         "image": "./assets/img/Leather Puncher Belt Punching Pliers Perforator Eyelet Piercer Sewing Crafts For Card Paper Handbag.jpg",
-        "description": "Leather puncher for creating holes in leather and other materials."
+        "description": "Leather puncher for creating holes in leather and other materials.",
+        "note": "Average price for basic leather hole punchers"
     },
     {
         "id": 27,
         "name": "Paper Hole Puncher",
-        "price": 2000,
+        "price": 2500,
         "image": "./assets/img/Paper Hole Puncher.jpg",
-        "description": "Standard paper hole puncher for creating holes in paper."
+        "description": "Standard paper hole puncher for creating holes in paper.",
+        "note": "Price for standard 2-hole puncher"
     },
     {
         "id": 28,
         "name": "White Board Marker",
-        "price": 2000,
+        "price": 200,
         "image": "./assets/img/REFILLABLE WHITE BOARD MARKER.jpg",
         "description": "Refillable whiteboard marker for use on whiteboards."
     },
     {
         "id": 29,
         "name": "Colorful Plastic Pins",
-        "price": 2000,
+        "price": 600,
         "image": "./assets/img/Colorful Plastic Stainless Steel 100PCS Push Pins.jpg",
         "description": "Colorful plastic push pins for securing documents and notes."
     },
     {
         "id": 30,
         "name": "3 Storage Multi-functional Desk Organizer Mesh Metal",
-        "price": 2000,
+        "price": 4500,
         "image": "/assets/img/3 Storage Multi-functional Desk Organizer Mesh Metal Pen.jpg",
-        "description": "Colorful plastic push pins for securing documents and notes."
+        "description": "Mesh metal desk organizer for pens and office supplies.",
+        "note": "Average price for metal mesh organizers"
     },
     {
         "id": 31,
         "name": "Permanent Markers",
-        "price": 2000,
+        "price": 200,
         "image": "/assets/img/Permanent Markers (Assorted Colours).jpg",
-        "description": "Colorful plastic push pins for securing documents and notes."
+        "description": "Permanent markers in assorted colors for various surfaces."
     },
     {
         "id": 32,
         "name": "Unbranded Tape",
-        "price": 2000,
+        "price": 2500,
         "image": "/assets/img/Unbranded Tape.jpg",
-        "description": "Colorful plastic push pins for securing documents and notes."
+        "description": "Generic adhesive tape for general use."
     },
     {
         "id": 33,
         "name": "Stainless Steel Ruler",
-        "price": 2000,
+        "price": 1500,
         "image": "/assets/img/Stainless Steel Ruler Measure Metric Function 30cm 12Inch.jpg",
-        "description": "Colorful plastic push pins for securing documents and notes."
+        "description": "Durable stainless steel ruler with metric measurements.",
+        "note": "Price for 30cm steel ruler"
     },
     {
         "id": 34,
         "name": "Laminating Film",
-        "price": 2000,
+        "price": 70,
         "image": "/assets/img/Laminating Film.jpg",
-        "description": "Colorful plastic push pins for securing documents and notes."
+        "description": "Sheets for laminating documents and photos."
     },
     {
-        "id": 33,
+        "id": 35,
         "name": "Multicolor Paper Clip",
-        "price": 2000,
+        "price": 800,
         "image": "/assets/img/Multicolor Paper Clip.jpg",
-        "description": "Colorful plastic push pins for securing documents and notes."
+        "description": "Assorted colored paper clips for office use.",
+        "note": "Price for box of 100-200 clips"
     },
     {
-        "id": 33,
+        "id": 36,
         "name": "Metal Binder",
-        "price": 2000,
+        "price": 1200,
         "image": "/assets/img/Metal Binder Paper Clip.jpg",
-        "description": "Colorful plastic push pins for securing documents and notes."
+        "description": "Metal binder clips for securing stacks of paper.",
+        "note": "Price for pack of 10-20 clips"
     },
     {
-        "id": 33,
+        "id": 37,
         "name": "Charcoal Pencils",
-        "price": 2000,
+        "price": 2500,
         "image": "/assets/img/Charcoal Pencils.jpg",
-        "description": "Colorful plastic push pins for securing documents and notes."
+        "description": "Artistic charcoal pencils for drawing and sketching.",
+        "note": "Price for set of 3-5 pencils"
     },
     {
-        "id": 33,
+        "id": 38,
         "name": "Paint Brush",
-        "price": 2000,
+        "price": 1500,
         "image": "/assets/img/Magnetic White Board-60*60.jpg",
-        "description": "Colorful plastic push pins for securing documents and notes."
+        "description": "Basic paint brush for art and craft projects.",
+        "note": "Price for medium-sized brush"
     },
     {
-        "id": 33,
+        "id": 39,
         "name": "Magnetic White Board",
-        "price": 2000,
+        "price": 18000,
         "image": "/assets/img/Magnetic White Board-60*60.jpg",
-        "description": "Colorful plastic push pins for securing documents and notes."
+        "description": "60x60cm magnetic whiteboard for office or classroom.",
+        "note": "Price for standard size magnetic board"
     },
     {
-        "id": 33,
+        "id": 40,
         "name": "Masking Tape",
-        "price": 2000,
+        "price": 1000,
         "image": "/assets/img/Maskingtape.jpg",
-        "description": "Colorful plastic push pins for securing documents and notes."
+        "description": "Painter's masking tape for temporary marking."
     },
     {
-        "id": 33,
+        "id": 41,
         "name": "Large Graph Paper",
-        "price": 2000,
+        "price": 200,
         "image": "/assets/img/Large Graph Paper Pad.avif",
-        "description": "Colorful plastic push pins for securing documents and notes."
+        "description": "Graph paper pad for technical drawing and math work."
     }
 ]
